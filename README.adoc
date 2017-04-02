@@ -1,10 +1,10 @@
 # This is a sample (PoC) Olingo / Play integration
 
 ## Intro
-This is a sample (PoC) link:http://apache.olingo.org[Olingo] / Play integration.
+This is a sample (PoC) link:http://apache.olingo.org[Olingo] / link:https://www.playframework.com/[Play] integration.
 
-Therefore the `TecSvc` from the Olingo was copied (see all below `app/olingo/*`)
-and a `PlayODataHanlder` and according `Application` was created (see below `app/controllers/*`).
+Therefore the `TecSvc` from the Olingo was copied (see all below `app/olingo/`)
+and a `PlayODataHandler` and according `Application` was created (see below `app/controllers/`).
 
 As disclaimer, this is just a *PoC* and not a *best practice* project.
 
